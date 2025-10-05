@@ -30,8 +30,6 @@ The website includes multiple pages with structured, semantic HTML5, advanced CS
 ## Live Demo
 [View Website Here](https://aiisana.github.io/midterm/)
 
-(Replace `yourusername` with your actual GitHub username after you publish.)
-
 ## Author
 Created by Aisana (Astana IT University)  
 Midterm Project — Web Technologies 2025
