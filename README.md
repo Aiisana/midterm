@@ -28,7 +28,7 @@ The website includes multiple pages with structured, semantic HTML5, advanced CS
 - Google Fonts: Orbitron
 
 ## Live Demo
-[View Website Here](https:[https://aiisana.github.io/midterm/])
+[View Website Here](https://aiisana.github.io/midterm/)
 
 (Replace `yourusername` with your actual GitHub username after you publish.)
 
